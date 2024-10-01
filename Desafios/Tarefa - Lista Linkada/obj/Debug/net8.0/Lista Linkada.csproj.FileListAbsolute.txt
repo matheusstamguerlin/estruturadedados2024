@@ -1,0 +1,30 @@
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\bin\Debug\net8.0\Lista Linkada.exe
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\bin\Debug\net8.0\Lista Linkada.deps.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\bin\Debug\net8.0\Lista Linkada.runtimeconfig.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\bin\Debug\net8.0\Lista Linkada.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\bin\Debug\net8.0\Lista Linkada.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\obj\Debug\net8.0\Lista Linkada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\obj\Debug\net8.0\Lista Linkada.AssemblyInfoInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\obj\Debug\net8.0\Lista Linkada.AssemblyInfo.cs
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\obj\Debug\net8.0\Lista Linkada.csproj.CoreCompileInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\obj\Debug\net8.0\Lista Linkada.sourcelink.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\obj\Debug\net8.0\Lista Linkada.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\obj\Debug\net8.0\refint\Lista Linkada.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\obj\Debug\net8.0\Lista Linkada.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\obj\Debug\net8.0\Lista Linkada.genruntimeconfig.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Lista Linkada\obj\Debug\net8.0\ref\Lista Linkada.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\bin\Debug\net8.0\Lista Linkada.exe
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\bin\Debug\net8.0\Lista Linkada.deps.json
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\bin\Debug\net8.0\Lista Linkada.runtimeconfig.json
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\bin\Debug\net8.0\Lista Linkada.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\bin\Debug\net8.0\Lista Linkada.pdb
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\obj\Debug\net8.0\Lista Linkada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\obj\Debug\net8.0\Lista Linkada.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\obj\Debug\net8.0\Lista Linkada.AssemblyInfo.cs
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\obj\Debug\net8.0\Lista Linkada.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\obj\Debug\net8.0\Lista Linkada.sourcelink.json
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\obj\Debug\net8.0\Lista Linkada.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\obj\Debug\net8.0\refint\Lista Linkada.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\obj\Debug\net8.0\Lista Linkada.pdb
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\obj\Debug\net8.0\Lista Linkada.genruntimeconfig.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada\obj\Debug\net8.0\ref\Lista Linkada.dll

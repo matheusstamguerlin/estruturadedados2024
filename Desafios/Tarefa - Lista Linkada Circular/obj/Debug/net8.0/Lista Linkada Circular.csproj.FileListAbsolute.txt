@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\bin\Debug\net8.0\Lista Linkada Circular.exe
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\bin\Debug\net8.0\Lista Linkada Circular.deps.json
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\bin\Debug\net8.0\Lista Linkada Circular.runtimeconfig.json
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\bin\Debug\net8.0\Lista Linkada Circular.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\bin\Debug\net8.0\Lista Linkada Circular.pdb
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\obj\Debug\net8.0\Lista Linkada Circular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\obj\Debug\net8.0\Lista Linkada Circular.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\obj\Debug\net8.0\Lista Linkada Circular.AssemblyInfo.cs
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\obj\Debug\net8.0\Lista Linkada Circular.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\obj\Debug\net8.0\Lista Linkada Circular.sourcelink.json
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\obj\Debug\net8.0\Lista Linkada Circular.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\obj\Debug\net8.0\refint\Lista Linkada Circular.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\obj\Debug\net8.0\Lista Linkada Circular.pdb
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\obj\Debug\net8.0\Lista Linkada Circular.genruntimeconfig.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - Lista Linkada Circular\obj\Debug\net8.0\ref\Lista Linkada Circular.dll

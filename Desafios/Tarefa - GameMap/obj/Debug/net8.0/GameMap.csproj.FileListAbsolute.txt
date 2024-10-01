@@ -1,0 +1,45 @@
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.exe
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.deps.json
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.dll
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.pdb
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.dll
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\refint\GameMap.dll
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.pdb
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\ref\GameMap.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.exe
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.deps.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.runtimeconfig.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.AssemblyInfoInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.AssemblyInfo.cs
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.csproj.CoreCompileInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.sourcelink.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\refint\GameMap.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.genruntimeconfig.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\ref\GameMap.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\bin\Debug\net8.0\GameMap.exe
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\bin\Debug\net8.0\GameMap.deps.json
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\bin\Debug\net8.0\GameMap.runtimeconfig.json
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\bin\Debug\net8.0\GameMap.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\bin\Debug\net8.0\GameMap.pdb
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\obj\Debug\net8.0\GameMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\obj\Debug\net8.0\GameMap.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\obj\Debug\net8.0\GameMap.AssemblyInfo.cs
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\obj\Debug\net8.0\GameMap.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\obj\Debug\net8.0\GameMap.sourcelink.json
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\obj\Debug\net8.0\GameMap.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\obj\Debug\net8.0\refint\GameMap.dll
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\obj\Debug\net8.0\GameMap.pdb
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\obj\Debug\net8.0\GameMap.genruntimeconfig.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Desafios\Tarefa - GameMap\obj\Debug\net8.0\ref\GameMap.dll
