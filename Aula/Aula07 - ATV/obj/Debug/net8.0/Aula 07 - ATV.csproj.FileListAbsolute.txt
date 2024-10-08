@@ -1,0 +1,15 @@
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\bin\Debug\net8.0\Aula 07 - ATV.exe
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\bin\Debug\net8.0\Aula 07 - ATV.deps.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\bin\Debug\net8.0\Aula 07 - ATV.runtimeconfig.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\bin\Debug\net8.0\Aula 07 - ATV.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\bin\Debug\net8.0\Aula 07 - ATV.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\obj\Debug\net8.0\Aula 07 - ATV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\obj\Debug\net8.0\Aula 07 - ATV.AssemblyInfoInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\obj\Debug\net8.0\Aula 07 - ATV.AssemblyInfo.cs
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\obj\Debug\net8.0\Aula 07 - ATV.csproj.CoreCompileInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\obj\Debug\net8.0\Aula 07 - ATV.sourcelink.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\obj\Debug\net8.0\Aula 07 - ATV.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\obj\Debug\net8.0\refint\Aula 07 - ATV.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\obj\Debug\net8.0\Aula 07 - ATV.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\obj\Debug\net8.0\Aula 07 - ATV.genruntimeconfig.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 07 - ATV\obj\Debug\net8.0\ref\Aula 07 - ATV.dll

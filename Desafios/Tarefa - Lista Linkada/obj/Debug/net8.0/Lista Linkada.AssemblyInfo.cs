@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lista Linkada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+787800f7103cc4dc26cbc38445feb9856cc3bca9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28a698045828260bb5e133582373cf639aa647f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lista Linkada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lista Linkada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

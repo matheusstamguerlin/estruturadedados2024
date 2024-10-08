@@ -1,39 +1,43 @@
-﻿// Exemplo de uma agenda telefônica
+﻿using System.Collections;
 
-using System.Collections;
+// Exemplo de uma agenda telefonica;
 
 Hashtable phoneBook = new Hashtable()
 {
-    // { "Chave", "Valor" },
-    { "Thomazzi", "49-99961-0150" },
-    { "Mauricio Gonzatto", "49-99975-8875" },
-    { "Gabriel Bianchi", "49-99105-8904" },
+    { "Matheus Stamguerlin", "49-99947-9647"},
+    { "Joao Campos", "49-99918-8470"},
+    { "Kalil", "49-99202-2187"}
 };
 
-// É possível adicionar elementos de diversas formas
-// Pelo próprio índice chave inexistente
-phoneBook ["Thiago Padilha"] = "49-99176-8255";
+// É possivel adicionar elementos de diversas formas;
+// Pelo proprio indice chave inexistente;
+phoneBook["Mayara"] = "49-99933-4666";
 
-// Ou pelo método Add()
-phoneBook.Add ("Marcos Henrique","49-99202-6169");
+// Ou pelo ADD();
+phoneBook.Add("Lorildes", "49-9802-5849");
 
-// Entretando, a TabelaHash verifica se há
-// duplicidade de chave e pode lançar uma
-// Exception
+// Entre tanto, a tabela Hash verifica se há duplicidade de chave e pode lançar uma Exception;
 try
 {
-    phoneBook.Add("Mauricio Gonzatto","49-99975-8575");
-}catch(Exception ex)
+    phoneBook.Add("Joao Campos", "49-99918-8470");
+}
+catch(Exception ex)
 {
     Console.WriteLine($"Erro ao tentar incluir valor repetido.");
     Console.WriteLine(ex.Message);
-    throw ex;
 }
 
-// Percorrendo itens da HashTable
-Console.WriteLine("Agenda telefônica:");
+// Percorrendo itens da HashTable;
+Console.WriteLine("Agenda telefonica: ");
 if(phoneBook.Count == 0)
-    Console.WriteLine("A agenda está vazia.");
+{
+    Console.WriteLine("A agenda esta vazia.");
+}
 else
+{
     foreach(DictionaryEntry entry in phoneBook)
+    {
         Console.WriteLine($"{entry.Key}:{entry.Value}");
+    }
+}
+
