@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - InsertionSort\\Aula08 - InsertionSort.csproj": {}
+    "C:\\Users\\424072\\Documents\\Estrutura de Dados 2024\\EstruturaDeDados2024\\Atividades\\Aula 08 - ATV - Insertion Sort\\Aula 08 - ATV - Insertion Sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - InsertionSort\\Aula08 - InsertionSort.csproj": {
+    "C:\\Users\\424072\\Documents\\Estrutura de Dados 2024\\EstruturaDeDados2024\\Atividades\\Aula 08 - ATV - Insertion Sort\\Aula 08 - ATV - Insertion Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - InsertionSort\\Aula08 - InsertionSort.csproj",
-        "projectName": "Aula08 - InsertionSort",
-        "projectPath": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - InsertionSort\\Aula08 - InsertionSort.csproj",
-        "packagesPath": "C:\\Users\\371475\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - InsertionSort\\obj\\",
+        "projectUniqueName": "C:\\Users\\424072\\Documents\\Estrutura de Dados 2024\\EstruturaDeDados2024\\Atividades\\Aula 08 - ATV - Insertion Sort\\Aula 08 - ATV - Insertion Sort.csproj",
+        "projectName": "Aula 08 - ATV - Insertion Sort",
+        "projectPath": "C:\\Users\\424072\\Documents\\Estrutura de Dados 2024\\EstruturaDeDados2024\\Atividades\\Aula 08 - ATV - Insertion Sort\\Aula 08 - ATV - Insertion Sort.csproj",
+        "packagesPath": "C:\\Users\\424072\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\424072\\Documents\\Estrutura de Dados 2024\\EstruturaDeDados2024\\Atividades\\Aula 08 - ATV - Insertion Sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\371475\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\424072\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
