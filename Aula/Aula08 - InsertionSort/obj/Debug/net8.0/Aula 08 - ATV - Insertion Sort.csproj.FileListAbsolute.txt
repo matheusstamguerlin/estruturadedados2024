@@ -1,0 +1,15 @@
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\bin\Debug\net8.0\Aula 08 - ATV - Insertion Sort.exe
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\bin\Debug\net8.0\Aula 08 - ATV - Insertion Sort.deps.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\bin\Debug\net8.0\Aula 08 - ATV - Insertion Sort.runtimeconfig.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\bin\Debug\net8.0\Aula 08 - ATV - Insertion Sort.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\bin\Debug\net8.0\Aula 08 - ATV - Insertion Sort.pdb
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\obj\Debug\net8.0\Aula 08 - ATV - Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\obj\Debug\net8.0\Aula 08 - ATV - Insertion Sort.AssemblyInfoInputs.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\obj\Debug\net8.0\Aula 08 - ATV - Insertion Sort.AssemblyInfo.cs
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\obj\Debug\net8.0\Aula 08 - ATV - Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\obj\Debug\net8.0\Aula 08 - ATV - Insertion Sort.sourcelink.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\obj\Debug\net8.0\Aula 08 - ATV - Insertion Sort.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\obj\Debug\net8.0\refint\Aula 08 - ATV - Insertion Sort.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\obj\Debug\net8.0\Aula 08 - ATV - Insertion Sort.pdb
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\obj\Debug\net8.0\Aula 08 - ATV - Insertion Sort.genruntimeconfig.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula08 - InsertionSort\obj\Debug\net8.0\ref\Aula 08 - ATV - Insertion Sort.dll

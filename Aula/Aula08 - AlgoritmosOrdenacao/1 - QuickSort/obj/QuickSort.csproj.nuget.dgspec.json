@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - InsertionSort\\Aula 08 - ATV - Insertion Sort.csproj": {}
+    "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - AlgoritmosOrdenacao\\QuickSort\\QuickSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - InsertionSort\\Aula 08 - ATV - Insertion Sort.csproj": {
+    "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - AlgoritmosOrdenacao\\QuickSort\\QuickSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - InsertionSort\\Aula 08 - ATV - Insertion Sort.csproj",
-        "projectName": "Aula 08 - ATV - Insertion Sort",
-        "projectPath": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - InsertionSort\\Aula 08 - ATV - Insertion Sort.csproj",
+        "projectUniqueName": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - AlgoritmosOrdenacao\\QuickSort\\QuickSort.csproj",
+        "projectName": "QuickSort",
+        "projectPath": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - AlgoritmosOrdenacao\\QuickSort\\QuickSort.csproj",
         "packagesPath": "C:\\Users\\371475\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - InsertionSort\\obj\\",
+        "outputPath": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula08 - AlgoritmosOrdenacao\\QuickSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\371475\\AppData\\Roaming\\NuGet\\NuGet.Config",
