@@ -1,0 +1,15 @@
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\bin\Debug\net8.0\Aula09ArvoresBasicas.exe
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\bin\Debug\net8.0\Aula09ArvoresBasicas.deps.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\bin\Debug\net8.0\Aula09ArvoresBasicas.runtimeconfig.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\bin\Debug\net8.0\Aula09ArvoresBasicas.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\bin\Debug\net8.0\Aula09ArvoresBasicas.pdb
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\obj\Debug\net8.0\Aula09ArvoresBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\obj\Debug\net8.0\Aula09ArvoresBasicas.AssemblyInfoInputs.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\obj\Debug\net8.0\Aula09ArvoresBasicas.AssemblyInfo.cs
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\obj\Debug\net8.0\Aula09ArvoresBasicas.csproj.CoreCompileInputs.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\obj\Debug\net8.0\Aula09ArvoresBasicas.sourcelink.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\obj\Debug\net8.0\Aula09ArvoresBasicas.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\obj\Debug\net8.0\refint\Aula09ArvoresBasicas.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\obj\Debug\net8.0\Aula09ArvoresBasicas.pdb
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\obj\Debug\net8.0\Aula09ArvoresBasicas.genruntimeconfig.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09ArvoresBasicas\obj\Debug\net8.0\ref\Aula09ArvoresBasicas.dll
