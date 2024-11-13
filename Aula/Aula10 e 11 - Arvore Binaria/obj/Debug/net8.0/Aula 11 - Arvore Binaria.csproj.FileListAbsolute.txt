@@ -1,0 +1,5 @@
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024--\Aula\Aula10 e 11 - Arvore Binaria\obj\Debug\net8.0\Aula 11 - Arvore Binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024--\Aula\Aula10 e 11 - Arvore Binaria\obj\Debug\net8.0\Aula 11 - Arvore Binaria.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024--\Aula\Aula10 e 11 - Arvore Binaria\obj\Debug\net8.0\Aula 11 - Arvore Binaria.AssemblyInfo.cs
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024--\Aula\Aula10 e 11 - Arvore Binaria\obj\Debug\net8.0\Aula 11 - Arvore Binaria.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024--\Aula\Aula10 e 11 - Arvore Binaria\obj\Debug\net8.0\Aula 11 - Arvore Binaria.sourcelink.json
