@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\Desktop\\programação\\Estrutura de Dados Faculdade\\estruturadedados2024--\\Aula\\Aula10 e 11 - Arvore Binaria\\Aula 11 - Arvore Binaria.csproj": {}
+    "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula10 e 11 - Arvore Binaria\\Aula 11 - Arvore Binaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\Desktop\\programação\\Estrutura de Dados Faculdade\\estruturadedados2024--\\Aula\\Aula10 e 11 - Arvore Binaria\\Aula 11 - Arvore Binaria.csproj": {
+    "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula10 e 11 - Arvore Binaria\\Aula 11 - Arvore Binaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\programação\\Estrutura de Dados Faculdade\\estruturadedados2024--\\Aula\\Aula10 e 11 - Arvore Binaria\\Aula 11 - Arvore Binaria.csproj",
+        "projectUniqueName": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula10 e 11 - Arvore Binaria\\Aula 11 - Arvore Binaria.csproj",
         "projectName": "Aula 11 - Arvore Binaria",
-        "projectPath": "C:\\Users\\mathe\\Desktop\\programação\\Estrutura de Dados Faculdade\\estruturadedados2024--\\Aula\\Aula10 e 11 - Arvore Binaria\\Aula 11 - Arvore Binaria.csproj",
-        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\Desktop\\programação\\Estrutura de Dados Faculdade\\estruturadedados2024--\\Aula\\Aula10 e 11 - Arvore Binaria\\obj\\",
+        "projectPath": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula10 e 11 - Arvore Binaria\\Aula 11 - Arvore Binaria.csproj",
+        "packagesPath": "C:\\Users\\371475\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\371475\\Desktop\\Unoesc\\estruturadedados2024\\Aula\\Aula10 e 11 - Arvore Binaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\371475\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

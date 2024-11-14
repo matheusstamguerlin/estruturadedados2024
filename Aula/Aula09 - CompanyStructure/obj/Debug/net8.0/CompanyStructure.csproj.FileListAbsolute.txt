@@ -13,3 +13,18 @@ C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedad
 C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Aula\Aula09CompanyStructure\obj\Debug\net8.0\CompanyStructure.pdb
 C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Aula\Aula09CompanyStructure\obj\Debug\net8.0\CompanyStructure.genruntimeconfig.cache
 C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024\Aula\Aula09CompanyStructure\obj\Debug\net8.0\ref\CompanyStructure.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\bin\Debug\net8.0\CompanyStructure.exe
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\bin\Debug\net8.0\CompanyStructure.deps.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\bin\Debug\net8.0\CompanyStructure.runtimeconfig.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\bin\Debug\net8.0\CompanyStructure.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\bin\Debug\net8.0\CompanyStructure.pdb
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\obj\Debug\net8.0\CompanyStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\obj\Debug\net8.0\CompanyStructure.AssemblyInfoInputs.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\obj\Debug\net8.0\CompanyStructure.AssemblyInfo.cs
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\obj\Debug\net8.0\CompanyStructure.csproj.CoreCompileInputs.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\obj\Debug\net8.0\CompanyStructure.sourcelink.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\obj\Debug\net8.0\CompanyStructure.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\obj\Debug\net8.0\refint\CompanyStructure.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\obj\Debug\net8.0\CompanyStructure.pdb
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\obj\Debug\net8.0\CompanyStructure.genruntimeconfig.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Aula\Aula09 - CompanyStructure\obj\Debug\net8.0\ref\CompanyStructure.dll

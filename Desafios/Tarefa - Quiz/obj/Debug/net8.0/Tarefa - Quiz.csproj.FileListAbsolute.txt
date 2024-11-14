@@ -1,0 +1,15 @@
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\bin\Debug\net8.0\Tarefa - Quiz.exe
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\bin\Debug\net8.0\Tarefa - Quiz.deps.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\bin\Debug\net8.0\Tarefa - Quiz.runtimeconfig.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\bin\Debug\net8.0\Tarefa - Quiz.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\bin\Debug\net8.0\Tarefa - Quiz.pdb
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\obj\Debug\net8.0\Tarefa - Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\obj\Debug\net8.0\Tarefa - Quiz.AssemblyInfoInputs.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\obj\Debug\net8.0\Tarefa - Quiz.AssemblyInfo.cs
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\obj\Debug\net8.0\Tarefa - Quiz.csproj.CoreCompileInputs.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\obj\Debug\net8.0\Tarefa - Quiz.sourcelink.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\obj\Debug\net8.0\Tarefa - Quiz.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\obj\Debug\net8.0\refint\Tarefa - Quiz.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\obj\Debug\net8.0\Tarefa - Quiz.pdb
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\obj\Debug\net8.0\Tarefa - Quiz.genruntimeconfig.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa - Quiz\obj\Debug\net8.0\ref\Tarefa - Quiz.dll

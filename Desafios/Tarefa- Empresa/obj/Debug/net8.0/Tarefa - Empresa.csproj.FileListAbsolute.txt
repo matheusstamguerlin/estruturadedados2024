@@ -13,3 +13,18 @@ C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedad
 C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024--\Desafios\Tarefa- Empresa\obj\Debug\net8.0\Tarefa - Empresa.pdb
 C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024--\Desafios\Tarefa- Empresa\obj\Debug\net8.0\Tarefa - Empresa.genruntimeconfig.cache
 C:\Users\mathe\Desktop\programação\Estrutura de Dados Faculdade\estruturadedados2024--\Desafios\Tarefa- Empresa\obj\Debug\net8.0\ref\Tarefa - Empresa.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\bin\Debug\net8.0\Tarefa - Empresa.exe
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\bin\Debug\net8.0\Tarefa - Empresa.deps.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\bin\Debug\net8.0\Tarefa - Empresa.runtimeconfig.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\bin\Debug\net8.0\Tarefa - Empresa.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\bin\Debug\net8.0\Tarefa - Empresa.pdb
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\obj\Debug\net8.0\Tarefa - Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\obj\Debug\net8.0\Tarefa - Empresa.AssemblyInfoInputs.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\obj\Debug\net8.0\Tarefa - Empresa.AssemblyInfo.cs
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\obj\Debug\net8.0\Tarefa - Empresa.csproj.CoreCompileInputs.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\obj\Debug\net8.0\Tarefa - Empresa.sourcelink.json
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\obj\Debug\net8.0\Tarefa - Empresa.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\obj\Debug\net8.0\refint\Tarefa - Empresa.dll
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\obj\Debug\net8.0\Tarefa - Empresa.pdb
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\obj\Debug\net8.0\Tarefa - Empresa.genruntimeconfig.cache
+C:\Users\371475\Desktop\Unoesc\estruturadedados2024\Desafios\Tarefa- Empresa\obj\Debug\net8.0\ref\Tarefa - Empresa.dll
